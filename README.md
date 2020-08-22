@@ -4,7 +4,7 @@
 
 The purpose of this model is to apply the Linear Regression in order to predic the prices of three differen classes of Fiat 500. The dataset comes from [Kaggle.](https://www.kaggle.com/)
 
-# Description of the dataset
+## Description of the dataset
 
 - model:'pop', 'lounge', 'sport'
 
