@@ -6,7 +6,7 @@ The purpose of this model is to apply the Linear Regression in order to predic t
 
 # Description of the dataset
 
-- model: Fiat 500 comes in several 'flavours' :'pop', 'lounge', 'sport'
+- model:'pop', 'lounge', 'sport'
 
 - engine_power: number of Kw of the engine
 
@@ -49,4 +49,4 @@ correlation matrix for model, age_in_days, km and price
 - Test set score: 0.85
 
 ## License
-The dataset for this model comes from [Kaggle](https://www.kaggle.com/)
+The dataset for this model comes from [Kaggle.](https://www.kaggle.com/)
