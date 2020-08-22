@@ -6,7 +6,7 @@ The purpose of this model is to apply the Linear Regression in order to predict 
 
 ## Description of the dataset
 
-- model:'pop', 'lounge', 'sport'
+- model: pop, lounge, sport
 
 - engine_power: number of Kw of the engine
 
