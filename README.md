@@ -26,6 +26,9 @@ The purpose of this model is to apply the Linear Regression in order to predict 
 ```python
 import sklearn 
 from sklearn.model_selection import train_test_split
+from sklearn import preprocessing
+from sklearn.linear_model import LinearRegression
+from scipy import stats
 import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
