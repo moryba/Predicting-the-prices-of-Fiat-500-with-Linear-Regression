@@ -10,7 +10,7 @@ The purpose of this model is to apply the Linear Regression in order to predict 
 
 - engine_power: Kw of the engine
 
-- age_in_days: age of the car in number of days 
+- age_in_days: age of the car in days 
 
 - km: kilometers of the car
 
