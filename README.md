@@ -22,7 +22,7 @@ The porpuse of this model is to apply the Linear Regression model in order to pr
 
 - price: selling price (the target)
 
-# Usage
+## Usage
 ```python
 import sklearn 
 from sklearn.model_selection import train_test_split
@@ -33,13 +33,15 @@ import numpy as np
 import scipy as sp
 import pandas as pd
 ```
-
-# Exploratory Data Analysis
+## Exploratory Data Analysis
+scatter matrix for model, engine_power, age_in_days, km and price
 ![alt text](img/scatter_matrix.JPG)
-
+correlation matrix for model, age_in_days, km and price
 ![alt text](img/heatmap.JPG)
-
-# Model performance
+## Model performance
 ![alt text](img/histogram_residuals.JPG)
+## Score
 Training set score: 0.83
 Test set score: 0.85
+## License
+The dataset for this model comes from [Kaggle](https://www.kaggle.com/)
