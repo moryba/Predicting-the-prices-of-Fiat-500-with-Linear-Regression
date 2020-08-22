@@ -8,9 +8,9 @@ The purpose of this model is to apply the Linear Regression in order to predict 
 
 - model: pop, lounge, sport
 
-- engine_power: number of Kw of the engine
+- engine_power: Kw of the engine
 
-- age_in_days: age of the car in number of days (from the time the dataset has been created)
+- age_in_days: age of the car in number of days 
 
 - km: kilometers of the car
 
@@ -20,7 +20,7 @@ The purpose of this model is to apply the Linear Regression in order to predict 
 
 - lon: longitude of the seller (the price of cars in Italy varies from North to South of the country)
 
-- price: selling price (the target)
+- price: selling price
 
 ## Usage
 ```python
