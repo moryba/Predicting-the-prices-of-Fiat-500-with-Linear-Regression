@@ -45,8 +45,8 @@ correlation matrix for model, age_in_days, km and price
 
 ## Score
 
-Training set score: 0.83
-Test set score: 0.85
+- Training set score: 0.83
+- Test set score: 0.85
 
 ## License
 The dataset for this model comes from [Kaggle](https://www.kaggle.com/)
