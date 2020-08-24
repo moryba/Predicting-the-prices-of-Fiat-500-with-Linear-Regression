@@ -12,7 +12,7 @@ The purpose of this model is to apply the Linear Regression in order to predict 
 
 - age_in_days: age of the car in days 
 
-- km: kilometers of the car
+- km: kilometres of the car
 
 - previous_owners: number of previous owners
 
