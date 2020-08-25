@@ -3,6 +3,7 @@
 ## Introduction
 
 The purpose of this model is to apply the Linear Regression in order to predict the prices of three differen classes of Fiat 500. The dataset comes from [Kaggle.](https://www.kaggle.com/)
+For additional information about Linear Models you can read my article on [Towards Data Science.](https://towardsdatascience.com/machine-learning-observe-how-a-linear-model-works-by-predicting-the-prices-of-the-fiat-500-fb38e0d22681?source=friends_link&sk=1efb890e3ca5747c8aee0b57500c710e)
 
 ## Description of the dataset
 
